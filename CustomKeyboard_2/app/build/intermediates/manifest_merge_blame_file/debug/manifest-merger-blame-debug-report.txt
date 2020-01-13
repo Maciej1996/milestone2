@@ -6,75 +6,74 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml
+8-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml
+9-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" >
-11-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:4:5-5:65
-11-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:5:5-45
+11-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:4:5-5:65
+11-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:5:5-45
 12    </uses-permission>
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
-13-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:6:5-7:85
-13-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:7:9-65
+13-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:6:5-7:85
+13-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:7:9-65
 14    </uses-permission>
 15
 16    <uses-feature
-16-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:8:5-9:35
+16-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:8:5-9:35
 17        android:name="android.hardware.camera"
-17-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:8:19-57
+17-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:8:19-57
 18        android:required="true" />
-18-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:9:9-32
+18-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:9:9-32
 19
 20    <uses-permission android:name="android.permission.NFC" />
-20-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:10:5-62
-20-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:10:22-59
+20-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:10:5-62
+20-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:10:22-59
 21
 22    <uses-feature
-22-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:5-82
+22-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:5-82
 23        android:name="android.hardware.nfc"
-23-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:19-54
+23-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:19-54
 24        android:required="false" />
-24-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:55-79
+24-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:11:55-79
 25
 26    <application
-26-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:5-20:15
+26-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:5-20:15
 27        android:allowBackup="true"
-27-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:145-171
+27-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:145-171
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.0.1] C:\Users\kobylins\.gradle\caches\transforms-2\files-2.1\46da25c3e2ae6308b2227b660caa604d\core-1.0.1\AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:77-111
+30-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:77-111
 31        android:label="@string/app_name"
-31-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:112-144
+31-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:112-144
 32        android:supportsRtl="true"
-32-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:50-76
-33        android:testOnly="true"
-34        android:theme="@style/AppTheme" >
-34-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:18-49
-35        <service
-35-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:5-19:15
-36            android:name="com.example.customkeyboard.KeyboardServiceIME"
-36-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:14-48
-37            android:label="@string/ime"
-37-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:49-76
-38            android:permission="android.permission.BIND_INPUT_METHOD" >
-38-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:77-134
-39            <meta-data
-39-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:5-79
-40                android:name="android.view.im"
-40-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:16-46
-41                android:resource="@xml/method" />
-41-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:47-77
-42
-43            <intent-filter>
-43-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:15:5-18:21
-44                <action android:name="android.view.InputMethod" />
-44-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:17:5-54
-44-->C:\Users\kobylins\Desktop\Mile-Stone-2-Keyoard-master\CustomKeyboard_2\app\src\main\AndroidManifest.xml:17:13-52
-45            </intent-filter>
-46        </service>
-47    </application>
-48
-49</manifest>
+32-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:50-76
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:12:18-49
+34        <service
+34-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:5-19:15
+35            android:name="com.example.customkeyboard.KeyboardServiceIME"
+35-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:14-48
+36            android:label="@string/ime"
+36-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:49-76
+37            android:permission="android.permission.BIND_INPUT_METHOD" >
+37-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:13:77-134
+38            <meta-data
+38-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:5-79
+39                android:name="android.view.im"
+39-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:16-46
+40                android:resource="@xml/method" />
+40-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:14:47-77
+41
+42            <intent-filter>
+42-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:15:5-18:21
+43                <action android:name="android.view.InputMethod" />
+43-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:17:5-54
+43-->C:\Users\kobylins\Desktop\android\milestone2\CustomKeyboard_2\app\src\main\AndroidManifest.xml:17:13-52
+44            </intent-filter>
+45        </service>
+46    </application>
+47
+48</manifest>
