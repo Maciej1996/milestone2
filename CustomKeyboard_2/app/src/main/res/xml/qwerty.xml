@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="900%p"
+    android:horizontalGap="1dp"
+    android:verticalGap="1dp"
+    android:keyHeight="40dp">
+
+    <Row>
+        <Key android:codes="1" android:keyLabel="Hello I’m ..."  />
+    </Row>
+    <Row>
+        <Key android:codes="2" android:keyLabel="616000010000123" />
+    </Row>
+    <Row>
+<Key android:codes="3" android:keyLabel="616000010000124"/>
+    </Row>
+    <Row>
+    <Key android:codes="4" android:keyLabel="Choose Keyboard"/>
+</Row>
+    <Row>
+        <Key android:codes="5" android:keyLabel="clear"/>
+    </Row>
+
+</Keyboard>

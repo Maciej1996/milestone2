@@ -1,0 +1,4 @@
+#Mon Jan 13 17:27:33 CET 2020
+base.0=C\:\\Users\\kobylins\\Desktop\\Mile-Stone-2-Keyoard-master\\CustomKeyboard_2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
