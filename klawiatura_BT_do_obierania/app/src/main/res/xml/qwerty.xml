@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="100%p"
+    android:horizontalGap="1dp"
+    android:verticalGap="1dp"
+    android:keyHeight="60dp">
+
+    <Row>
+        <Key android:codes="49" android:keyLabel="LISTEN" />
+
+    </Row>
+    <Row>
+        <Key android:codes="50" android:keyLabel="CLEAR" />
+
+    </Row>
+
+</Keyboard>
